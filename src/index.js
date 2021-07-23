@@ -34,7 +34,7 @@ ThemeSwitchNode.addEventListener('change', event => {
 
 // function removeClass() {
  
-//     if (ThemeSwitchNode .checked) {
+//     if (ThemeSwitchNode.checked) {
 //         bodyNode.classList.remove(LIGHT);
 //         bodyNode.classList.add(DARK)
 
